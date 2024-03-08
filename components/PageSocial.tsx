@@ -26,8 +26,8 @@ const socialLinks: SocialLink[] = [
   },
 
   config.github && {
-    name: 'github',
-    href: `https://github.com/${config.github}`,
+    name: 'Secure Form',
+    href: `/`,
     title: `GitHub @${config.github}`,
     icon: (
       <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'>
@@ -37,7 +37,7 @@ const socialLinks: SocialLink[] = [
   },
 
   config.linkedin && {
-    name: 'linkedin',
+    name: 'D1',
     href: `https://www.linkedin.com/in/${config.linkedin}`,
     title: `LinkedIn ${config.author}`,
     icon: (
@@ -48,7 +48,7 @@ const socialLinks: SocialLink[] = [
   },
 
   config.newsletter && {
-    name: 'newsletter',
+    name: 'D2',
     href: `${config.newsletter}`,
     title: `Newsletter ${config.author}`,
     icon: (
@@ -59,7 +59,7 @@ const socialLinks: SocialLink[] = [
   },
 
   config.youtube && {
-    name: 'youtube',
+    name: 'D3',
     href: `https://www.youtube.com/${config.youtube}`,
     title: `YouTube ${config.youtube}`,
     icon: (
