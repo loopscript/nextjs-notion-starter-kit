@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'SammorMaged',
   github: 'Loopscript',
-  linkedin: 'Maged Sammor',
+  linkedin: 'Maged-Sammor',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
