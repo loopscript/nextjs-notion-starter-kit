@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Maged Sammor',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Loopscript_Ideation',
 
   // social usernames (optional)
   twitter: 'SammorMaged',
