@@ -2,10 +2,10 @@
   "name": "nextjs-notion-starter-kit",
   "version": "2.0.0",
   "private": true,
-  "description": "The perfect starter kit for building beautiful websites with Next.js and Notion.",
-  "author": "Travis Fischer <travis@transitivebullsh.it>",
+  "description": "Maged Sammor:Loopscript",
+  "author": "Maged Sammor <magedsammor@icloud.com>",
   "repository": "transitive-bullshit/nextjs-notion-starter-kit",
-  "license": "MIT",
+  "license": "",
   "engines": {
     "node": ">=16"
   },
